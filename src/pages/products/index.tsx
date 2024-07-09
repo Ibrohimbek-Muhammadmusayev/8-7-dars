@@ -5,7 +5,7 @@ import { Button, Form, Input } from 'antd';
 export default function Products(){
     return (
         <div>
-            <div className="w-full px-[30px] flex justify-between items-center h-[80px] bg-primary-content">
+            <div className="w-full px-[30px] flex justify-between items-center h-[80px] bg-white">
                 <Form
                     className="flex gap-[50px]"
                     name="wrap"
