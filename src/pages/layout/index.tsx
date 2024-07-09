@@ -9,7 +9,7 @@ export default function Layout(){
                     <Sitebar/>
                     <div className="w-full">
                         <div className="navbar h-[80px] bg-white flex justify-between">
-                            <h1 className="font-bold text-[30px] text-white pl-[40px]">hello 👋</h1>
+                            <h1 className="font-bold text-[30px] text-black pl-[40px]">hello 👋</h1>
                             <button className="btn rounded-full">John</button>
                         </div>
                         <div className="w-full">
