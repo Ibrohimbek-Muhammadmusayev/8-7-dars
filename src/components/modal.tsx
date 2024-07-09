@@ -58,11 +58,11 @@ export const CreateModal: React.FC = () => {
           <Radio value={'women'}>Ayol</Radio>
           <Radio value={'umumiy'}>Umumiy</Radio>
         </Radio.Group>
-        <Form.Item label=" ">
+        {/* <Form.Item label=" ">
           <Button type="primary" htmlType="submit">
             Submit
           </Button>
-        </Form.Item>
+        </Form.Item> */}
       </Modal>
     </>
   );
