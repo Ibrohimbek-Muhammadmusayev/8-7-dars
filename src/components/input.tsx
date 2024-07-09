@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Form, Input } from 'antd';
+import { Form, Input } from 'antd';
 import Uploading from './upload-images';
 
 const FormInput: React.FC = () => (
